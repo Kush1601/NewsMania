@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsMania</string>
+    <string name="image">Image</string>
+    <string name="Title">Title</string>
+    <string name="Desc">Desc</string>
+
+</resources>
