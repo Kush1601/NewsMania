@@ -15,4 +15,6 @@ Libraries used in this project -
 Create your own API key . Place your API key at
 
 co.k2.newsbits.common.NewsApi.API_KEY
+
+
 Build and run as usual
